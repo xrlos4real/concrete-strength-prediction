@@ -59,3 +59,15 @@ https://archive.ics.uci.edu/dataset/165/concrete+compressive+strength
 ## Disclaimer
 
 This project is for educational purposes only. Predictions should not be used for engineering safety decisions.
+
+
+## Lessons Learned
+
+Through this project, I learned how to:
+
+- Train and evaluate machine learning models using Scikit-learn.
+- Use K-Fold Cross Validation for model comparison.
+- Apply feature engineering using domain knowledge.
+- Analyze prediction errors and feature importance.
+- Save and load trained models for inference.
+- Use Git and GitHub for version control.
